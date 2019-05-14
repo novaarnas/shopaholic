@@ -26,8 +26,8 @@
 
     <b:skin><![CDATA[/*
 -----------------------------------------------
-Shoppaholic Boutique Blogger Template
-Name:     Shoppaholic Boutique
+Zona shop Blogger Template
+Name:     Zona shop
 Designer: Puzzle Inc.
 URL:      www.puzzlemate.blogspot.com
 ----------------------------------------------- */
@@ -1118,7 +1118,7 @@ position:absolute;
         gapi.load(&quot;iframes-styles-bubble&quot;, function() {
           if (window.iframes &amp;&amp; iframes.open) {
             iframes.open(
-                &#39;//www.blogger.com/navbar.g?targetBlogID\0752389033756945996980\46blogName\75Shooppaholic+Boutique\46publishMode\75PUBLISH_MODE_BLOGSPOT\46navbarType\75LIGHT\46layoutType\75LAYOUTS\46searchRoot\75http://shoppaholic-boutique.blogspot.com/search\46blogLocale\75en\46v\0752\46homepageUrl\75http://shoppaholic-boutique.blogspot.com/\46blogFollowUrl\75https://plus.google.com/111198200908715371112\46vt\0752807950836185616979&#39;,
+                &#39;//www.blogger.com/navbar.g?targetBlogID\0752389033756945996980\46blogName\75Shooppaholic+Boutique\46publishMode\75PUBLISH_MODE_BLOGSPOT\46navbarType\75LIGHT\46layoutType\75LAYOUTS\46searchRoot\75http://Zonashopku.blogspot.com/search\46blogLocale\75en\46v\0752\46homepageUrl\75http://Zonashopku.blogspot.com/\46blogFollowUrl\75https://plus.google.com/111198200908715371112\46vt\0752807950836185616979&#39;,
                 {
                   container: &quot;navbar-iframe-container&quot;,
                   id: &quot;navbar-iframe&quot;
@@ -1202,17 +1202,17 @@ head.appendChild(script);
     <div class='shop_container'>
 
   <div class='top_cont'>
-    	<div class='welcome_msg'>Welcome to <a href='http://shoppaholictemplate.blogspot.com/'><strong>Shoppaholic Boutique</strong></a></div>
+    	<div class='welcome_msg'>Welcome to <a href='http://Zonashopku.blogspot.com/'><strong>Zona shop</strong></a></div>
         <div class='link_top'><a href='#'>About us</a> | <a href='#'>Contact</a> | <a href='#'>Privacy policy</a></div>
    </div>
 
 	<div class='header_cont'>
     	<div class='top_head'>
-        	<div class='logo'><a href='http://shoppaholictemplate.blogspot.com/'><img alt='logo shoppaholic boutique' height='52' src='https://lh4.googleusercontent.com/-wlveYqL3cPM/UX96I5UB1ZI/AAAAAAAAA48/DIfCabIyDdA/s500/logo.jpg' width='297'/></a>
+        	<div class='logo'><a href='http://Zonashopku.blogspot.com/'><img alt='Zona shop' height='52' src='https://lh4.googleusercontent.com/-wlveYqL3cPM/UX96I5UB1ZI/AAAAAAAAA48/DIfCabIyDdA/s500/logo.jpg' width='297'/></a>
             </div>
              <div class='call'>
                <div id='phone_ico'/>
-           	    <div id='phone_number'>Call Us : ( +62 ) 839 654 62666<br/>
+           	    <div id='phone_number'>Call Us : ( +62 ) 822 358 99561<br/>
            	    <em><span style='font-size:11px; font-weight:normal;'>Senin - Sabtu : 10.00 - 22.00</span></em>
                 </div>
              </div>
@@ -1222,17 +1222,17 @@ head.appendChild(script);
         
       <div class='navi_cont'>
     	<ul>
- 		    <li><a href='http://shoppaholic-boutique.blogspot.com/'>Home</a></li>
-      	 	<li><a href='http://shoppaholic-boutique.blogspot.com/search/label/produk'>Products</a></li>
+ 		    <li><a href='http://zonashopku.blogspot.com/'>Home</a></li>
+      	 	<li><a href='#'>Products</a></li>
             <li><a href='#'>Reseller</a></li>
             <li><a href='#'>How To Shop</a></li>
-            <li><a href='http://shoppaholic-boutique.blogspot.com/p/bagi-anda-yang-ingin-menggunakan_19.html'>Contact Puzzle Inc.</a></li>
-            <li><a href='http://shoppaholic-boutique.blogspot.com/p/template-blogger-gratis-rasanya-sudah.html'>Download Template</a></li>
+            <li><a href='#'>Contact Puzzle Inc.</a></li>
+            <li><a href='#'>Download Template</a></li>
         </ul>
     </div>
     
     <div class='banner'>
-      <img alt='shoppaholic boutique' height='510' src='https://lh4.googleusercontent.com/-DSV3CssfYt8/UX96REqbQ3I/AAAAAAAAA5E/3Ate2G7W3po/s1100/banner.jpg' width='978'/> </div>
+      <img alt='Zona shop' height='510' src='https://lh4.googleusercontent.com/-DSV3CssfYt8/UX96REqbQ3I/AAAAAAAAA5E/3Ate2G7W3po/s1100/banner.jpg' width='978'/> </div>
 
 	</div>
 </div>
@@ -2794,7 +2794,7 @@ background: none;
 <div class='cop-foot'>Copyrights &#169; 2013. Hand crafted with love by <a href='www.puzzlemate.blogspot.com'>Puzzle Inc.</a></div>
 
 <div class='logo-fot'>
-  <img alt='Logo Shoppaholic' height='30' src='https://lh3.googleusercontent.com/-XAdnAsjKKWw/UZD7LMprzuI/AAAAAAAABAo/5BmPnmf58d0/w500/lg-fot.png' width='122'/> </div>
+  <img alt='Zona shop' height='30' src='https://lh3.googleusercontent.com/-XAdnAsjKKWw/UZD7LMprzuI/AAAAAAAABAo/5BmPnmf58d0/w500/lg-fot.png' width='122'/> </div>
 
 </div>
      
