@@ -998,7 +998,7 @@ position:absolute;
     </b:template-skin>
     <b:include data='blog' name='google-analytics'/>
     
-    <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js' type='text/javascript'/>
+    <script src='https://rawcdn.githack.com/novaarnas/shopaholic/2067314223edabd177d09acdd444bfbb300a0f2d/jquery-1.9.1.min.js' type='text/javascript'/>
     
     
  <!-- Auto read more script Home -->
