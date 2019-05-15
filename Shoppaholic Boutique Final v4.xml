@@ -1095,8 +1095,9 @@ position:absolute;
  }
  //]]>
  </script>
-</b:if>
-    
+
+/* Shopping Cart 
+----------------------------------------------- */
 #shoppingCart{background:#2c2c2c url(http://4.bp.blogspot.com/-auJzkeat_xI/UN7MALEcF0I/AAAAAAAAB7k/hI_NP-aYqW8/s1600/simplecart.png) repeat-x top;border-radius:5px 5px 5px 5px;-moz-border-radius:5px;-webkit-border-radius:5px 5px 5px 5px;float:left;color:#ddd;width:243px;margin:10px;padding:0 10px 10px}
 #shoppingCart h2{background:url(http://2.bp.blogspot.com/-N9GvSMaH38A/T7qCGHb4ElI/AAAAAAAAGLo/sNUlCs3e8mo/s1600/icon_cart.png) no-repeat left top;display:block;font-size:16px;color:#fff;text-decoration:none;margin-bottom:10px;padding:0 0 10px 25px}
 .itemname{float:left;clear:both}
@@ -1128,6 +1129,7 @@ a.simpleCart_empty:hover,a.simpleCart_checkout:hover{background:#ffb81e;color:#f
 .product_image{width:170px;height:200px;background:#999;border:1px solid #000;float:left;text-align:left;margin:0 15px 10px 0;padding:13px 10px 13px 13px}
 .product_image img{width:160px;height:160px}
 
+</b:if>
   </head>
 
   <body expr:class='&quot;loading&quot; + data:blog.mobileClass'>
