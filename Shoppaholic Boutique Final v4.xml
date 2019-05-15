@@ -1223,11 +1223,9 @@ head.appendChild(script);
       <div class='navi_cont'>
     	<ul>
  		    <li><a href='http://zonashopku.blogspot.com/'>Home</a></li>
-      	 	<li><a href='#'>Products</a></li>
             <li><a href='#'>Reseller</a></li>
-            <li><a href='#'>How To Shop</a></li>
-            <li><a href='#'>Contact Puzzle Inc.</a></li>
-            <li><a href='#'>Download Template</a></li>
+            <li><a href='#'>Cara Belanja</a></li>
+            <li><a href='#'>Kontak</a></li>
         </ul>
     </div>
     
